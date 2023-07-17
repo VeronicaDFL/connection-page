@@ -17,7 +17,7 @@ export default function Hero () {
             </div>
             <div className="mt-5">
             <a href="https://github.com/VeronicaDFL" className="scale-90 hover:scale-100 animate-pulse ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/github.svg"height="30" width="30" alt="link to project" /></a>
-            <a href="https://www.linkedin.com/in/veronicadefelice/" className="scale-90 hover:scale-100 animate-pulse ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/link.png"height="30" width="30" alt="link to project" /></a>
+            <a href="https://www.linkedin.com/in/veronicadefelice/" className="scale-90 hover:scale-100  animate-pulse ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/link.png"height="30" width="30" alt="link to project" /></a>
             <a href="https://main.d3qkj62q5kdmfa.amplifyapp.com/" className="scale-90 hover:scale-100  animate-pulse  ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/connect.png"height="30" width="30" alt="link to project" /></a>
             <a href="mailto:verodefelic@gmail.com" className="scale-90 hover:scale-100  animate-pulse ml-3 text-titanium-500 inline-flex" target="_blank" rel="noreferrer"><img src="/images/email.png"height="30" width="30" alt="link to project" /></a>
             </div>
