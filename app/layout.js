@@ -6,6 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Veronica De Felice: Connection Hub',
   description: 'Connecting Links related to my profile',
+  image: '/favicon.ico'
 }
 
 export default function RootLayout({ children }) {
