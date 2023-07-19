@@ -27,4 +27,6 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-
+.footer-text {
+  position: center;
+}
