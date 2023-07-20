@@ -27,6 +27,10 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-.footer-text {
-  position: center;
+.container {
+  padding-top: 60px;
+}
+
+.svg {
+  color:#701a75;
 }
